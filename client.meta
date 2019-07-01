@@ -1,3 +1,5 @@
 gm-server-host=127.0.0.1
 gm-server-port=7733;
 latest-version=1.2
+client-download=www.placeholder.com/download/latest-client/
+patch-download=www.placeholder.com/download/patches/
