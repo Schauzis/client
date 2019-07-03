@@ -1,5 +1,5 @@
 remote_host=127.0.0.1
 remote_port=7733
-version=1.2
+app_version=1.2
 app_url=www.placeholder.com/download/latest-client
 patch_url=www.placeholder.com/download/patches/
